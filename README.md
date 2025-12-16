@@ -1,1 +1,1 @@
-# Bank-Account-Simulation-
+The Bank Account Simulation is designed to manage customer account details faciliate secure transactions and perform automated balance calculations. This project simulates core banking features such as account creation,deposits,withdrawal,balance enquires
